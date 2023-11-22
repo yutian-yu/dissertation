@@ -1,2 +1,2 @@
 # dissertation
-Python files for dissertation research
+Python programs for dissertation research
