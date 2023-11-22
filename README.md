@@ -1,2 +1,2 @@
-# For dissertation research
+# Research
 Python programs for dissertation research
